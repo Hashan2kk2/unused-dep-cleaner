@@ -17,12 +17,12 @@ Unlike simple regex-based tools, this tool uses **AST (Abstract Syntax Tree) par
 
 ## Features
 
-- 🔍 **Deep Scanning**: Parses `.js`, `.jsx`, `.ts`, `.tsx`, `.mjs`, `.cjs` files.
-- 🧹 **Safe Cleaning**: Backs up your `package.json` before making changes.
-- 🧪 **Dry Run**: Preview what will be removed without touching files.
-- ⚙️ **Configurable**: Ignore specific packages via `.unusedignore`.
-- 📦 **DevDependencies**: Option to include or exclude development dependencies.
-- 🛡️ **Smart Detection**: Automatically handles standard imports, scoped packages, and type definitions (`@types/pkg`).
+-  **Deep Scanning**: Parses `.js`, `.jsx`, `.ts`, `.tsx`, `.mjs`, `.cjs` files.
+-  **Safe Cleaning**: Backs up your `package.json` before making changes.
+-  **Dry Run**: Preview what will be removed without touching files.
+-  **Configurable**: Ignore specific packages via `.unusedignore`.
+-  **DevDependencies**: Option to include or exclude development dependencies.
+-  **Smart Detection**: Automatically handles standard imports, scoped packages, and type definitions (`@types/pkg`).
 
 ## Installation
 
