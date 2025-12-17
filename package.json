@@ -1,5 +1,5 @@
 {
-  "name": "unused-dependency-cleaner",
+  "name": "unused-dep-cleaner",
   "version": "1.0.0",
   "description": "A CLI tool to scan and remove unused npm dependencies.",
   "main": "dist/index.js",
