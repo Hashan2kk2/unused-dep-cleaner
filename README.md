@@ -126,4 +126,4 @@ If you want to contribute or modify the tool:
 
 ## License
 
-MIT © Antigravity
+MIT © Hashan2kk2

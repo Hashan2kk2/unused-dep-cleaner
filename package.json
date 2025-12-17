@@ -29,7 +29,7 @@
     "unused",
     "cli"
   ],
-  "author": "Antigravity",
+  "author": "Hashan2kk2",
   "license": "MIT",
   "dependencies": {
     "@babel/parser": "^7.26.3",
